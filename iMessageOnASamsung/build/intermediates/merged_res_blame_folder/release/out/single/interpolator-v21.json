@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.imessageonasamsung.iMessageOnASamsung-merged_res-25:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.example.imessageonasamsung.iMessageOnASamsung-material-1.6.1-6:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.example.imessageonasamsung.iMessageOnASamsung-merged_res-25:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.example.imessageonasamsung.iMessageOnASamsung-material-1.6.1-6:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "com.example.imessageonasamsung.iMessageOnASamsung-merged_res-25:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.example.imessageonasamsung.iMessageOnASamsung-material-1.6.1-6:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    }
+]

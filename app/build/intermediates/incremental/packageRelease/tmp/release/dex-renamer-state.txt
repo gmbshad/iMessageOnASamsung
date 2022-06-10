@@ -1,0 +1,4 @@
+#Fri Jun 10 02:08:58 MDT 2022
+base.0=/Users/mistaswisha/Developer/IMessageOnSamsung/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
